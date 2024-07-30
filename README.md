@@ -1,1 +1,1 @@
-Nothing on this file is set up yet
+Nothing on this repository is set up yet
